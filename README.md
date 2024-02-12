@@ -40,3 +40,6 @@ cd src/data
 2.	 Start the application:
 To start the application, run the following command in your terminal:
 npm start
+
+## Screen Recordings
+1. Added screen recordings for both user and admin user type for reference purpose under "Screen Recordings" folder.
