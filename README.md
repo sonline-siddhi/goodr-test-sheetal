@@ -21,7 +21,7 @@ This command will read the `package.json` file in your project directory and ins
    
 ## Json-server setup
 
-## Installation
+### Installation
 
 1.	Install JSON Server: Install JSON Server globally on your system using npm.
             npm install -g json-server
